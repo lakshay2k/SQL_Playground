@@ -2,7 +2,7 @@
 
 * We will begin our journet covering all the concepts:
   * **Select Statement**
-  * Where Clause
+  * **Where Clause**
 
 
 
