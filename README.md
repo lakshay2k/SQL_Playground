@@ -1,4 +1,5 @@
 # SQL_Playground
 
-will be brushing up my SQL Skills and revising them, be connected to learn and grow!!
+* We will begin our journet covering all the concepts:
+  * Select Statement
 
