@@ -4,6 +4,8 @@
   * **Select Statement**
   * **Where Clause**
   * OrderBy Clause
+  * INSERT Statement
+
 
 
 
