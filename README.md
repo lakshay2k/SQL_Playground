@@ -7,6 +7,10 @@
   * **INSERT Statement**
   * **NULL**
   * **UPDATE**
+  * Delete
+
+
+
 
 
 
