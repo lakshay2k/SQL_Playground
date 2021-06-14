@@ -11,7 +11,7 @@
   * **MIN & MAX**
   * **AVG**
   * **SUM**
-  * Count
+  * **Count**
 
 
 
