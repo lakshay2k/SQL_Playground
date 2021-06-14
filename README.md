@@ -7,8 +7,8 @@
   * **INSERT Statement**
   * **NULL**
   * **UPDATE**
-  * Delete
-  * MIN & MAX
+  * **Delete**
+  * **MIN & MAX**
   * AVG
   * SUM
   * Count
