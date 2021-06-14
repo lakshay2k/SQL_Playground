@@ -11,6 +11,9 @@
   * MIN & MAX
   * AVG
   * SUM
+  * Count
+
+
 
 
 
