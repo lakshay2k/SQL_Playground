@@ -9,6 +9,8 @@
   * **UPDATE**
   * Delete
   * MIN & MAX
+  * AVG
+  * SUM
 
 
 
