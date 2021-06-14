@@ -5,8 +5,8 @@
   * **Where Clause**
   * **OrderBy Clause**
   * **INSERT Statement**
-  * NULL
-  * UPDATE
+  * **NULL**
+  * **UPDATE**
 
 
 
