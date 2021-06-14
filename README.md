@@ -9,8 +9,8 @@
   * **UPDATE**
   * **Delete**
   * **MIN & MAX**
-  * AVG
-  * SUM
+  * **AVG**
+  * **SUM**
   * Count
 
 
