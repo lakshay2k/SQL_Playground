@@ -8,6 +8,9 @@
   * **NULL**
   * **UPDATE**
   * Delete
+  * MIN & MAX
+
+
 
 
 
