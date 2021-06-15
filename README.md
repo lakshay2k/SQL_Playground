@@ -12,6 +12,9 @@
   * **AVG**
   * **SUM**
   * **Count**
+  * Like operator
+
+
 
 
 
