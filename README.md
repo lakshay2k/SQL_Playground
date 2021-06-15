@@ -13,7 +13,7 @@
   * **SUM**
   * **Count**
   * **Like operator**
-  * WildCards
+  * **WildCards**
 
 
 
