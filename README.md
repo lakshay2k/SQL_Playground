@@ -12,7 +12,7 @@
   * **AVG**
   * **SUM**
   * **Count**
-  * Like operator
+  * **Like operator**
   * WildCards
 
 
