@@ -7,11 +7,11 @@
   * **INSERT Statement**
   * **NULL**
   * **UPDATE**
-  * Delete
-  * MIN & MAX
-  * AVG
-  * SUM
-  * Count
+  * **Delete**
+  * **MIN & MAX**
+  * **AVG**
+  * **SUM**
+  * **Count**
 
 
 
