@@ -14,7 +14,7 @@
   * **Count**
   * **Like operator**
   * **WildCards**
-  * IN Operator
+  * **IN Operator**
   * BETWEEN Operator
 
 
