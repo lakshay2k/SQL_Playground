@@ -15,7 +15,7 @@
   * **Like operator**
   * **WildCards**
   * **IN Operator**
-  * BETWEEN Operator
+  * **BETWEEN Operator**
 
 
 
