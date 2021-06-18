@@ -16,8 +16,8 @@
   * **WildCards**
   * **IN Operator**
   * **BETWEEN Operator**
-  * Alias
-  * Joins
+  * **Alias**
+  * **Joins**
 
 
 
