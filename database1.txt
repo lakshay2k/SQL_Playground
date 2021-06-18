@@ -1,0 +1,21 @@
+* Write the correct SQL statement to create a new database called testDB.
+-> CREATE DATABASE testDB;
+
+* Write the correct SQL statement to delete a database named testDB.
+-> DROP DATABASE testDB;
+
+* Write the correct SQL statement to create a new table called Persons.
+-> 
+CREATE TABLE Persons
+ (
+  PersonID int,
+  LastName varchar(255),
+  FirstName varchar(255),
+  Address varchar(255),
+  City varchar(255) 
+);
+
+
+
+
+
