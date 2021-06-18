@@ -18,7 +18,7 @@
   * **BETWEEN Operator**
   * **Alias**
   * **Joins**
-  * GroupBy
+  * **GroupBy**
   * Database1
 
 
