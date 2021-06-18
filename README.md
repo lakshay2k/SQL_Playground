@@ -18,6 +18,8 @@
   * **BETWEEN Operator**
   * **Alias**
   * **Joins**
+  * GroupBy
+
 
 
 
