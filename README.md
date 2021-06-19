@@ -20,7 +20,7 @@
   * **Joins**
   * **GroupBy**
   * **Database1**
-  * Database2
+  * **Database2**
 
 
 
