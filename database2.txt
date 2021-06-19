@@ -1,0 +1,19 @@
+* Write the correct SQL statement to delete a table called Persons.
+-> DROP TABLE Persons;
+
+* Use the TRUNCATE statement to delete all data inside a table.
+-> TRUNCATE TABLE Persons;
+
+* Add a column of type DATE called Birthday.
+-> ALTER TABLE Persons ADD Birthday DATE;
+
+* Delete the column Birthday from the Persons table.
+-> ALTER TABLE Persons DROP COLUMN Birthday;
+
+
+
+
+
+
+
+
