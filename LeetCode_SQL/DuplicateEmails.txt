@@ -1,4 +1,5 @@
-
+# Question link
+# https://leetcode.com/problems/duplicate-emails/
 
 
 Select Email  from 
