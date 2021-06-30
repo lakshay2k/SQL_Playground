@@ -1,0 +1,5 @@
+
+
+
+Select Name as Customers from Customers Where Id NOT in
+(Select C.Id from Customers C join Orders O ON C.Id = O.CustomerId)
