@@ -1,4 +1,5 @@
-
+#Question link:
+# https://leetcode.com/problems/customers-who-never-order/
 
 
 Select Name as Customers from Customers Where Id NOT in
