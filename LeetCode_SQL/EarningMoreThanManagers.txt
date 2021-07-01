@@ -1,0 +1,8 @@
+
+
+Select 
+emp.Name Employee
+from Employee emp Join Employee Manager 
+ON emp.ManagerId = Manager.Id
+where 
+emp.Salary > Manager.Salary;
