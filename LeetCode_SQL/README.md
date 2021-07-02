@@ -5,6 +5,8 @@
 * Duplicate Emails
 * Customers Who Never Order
 * Employee earning more than their Managers
+* Rising Temperature
+
 
 
 
