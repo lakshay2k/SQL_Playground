@@ -8,6 +8,6 @@
 * Rising Temperature
 * Big Countries(having large population)
 * Delete Duplicates
-
+* Nth Highest Salary
 
 
