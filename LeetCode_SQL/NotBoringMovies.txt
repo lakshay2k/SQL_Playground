@@ -1,4 +1,5 @@
-
+# Question Link
+# https://leetcode.com/problems/not-boring-movies/
 
 
 Select c1.* from Cinema c1 join Cinema c2 ON c1.id = c2.id Where 
