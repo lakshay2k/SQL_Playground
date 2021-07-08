@@ -1,0 +1,9 @@
+
+
+Update Salary 
+set Sex=
+Case sex
+when 'f' then 'm'
+when 'm' then 'f'
+else sex
+end;
