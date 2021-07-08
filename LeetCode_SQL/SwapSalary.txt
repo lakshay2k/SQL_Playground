@@ -1,3 +1,5 @@
+#Question Link
+# https://leetcode.com/problems/swap-salary/
 
 
 Update Salary 
