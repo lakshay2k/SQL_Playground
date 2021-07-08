@@ -10,5 +10,6 @@
 * Delete Duplicates
 * Nth Highest Salary
 * Not Boring Movies
+* Swap Salary
 
 
