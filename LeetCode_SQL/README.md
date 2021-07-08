@@ -1,5 +1,5 @@
 # LeetCode SQL Programming
-***I will be sharing the Question Title with their link in respective file***
+***I will be sharing the titled Question with their link in respective file***
 
 * Combine Two Tables
 * Duplicate Emails
