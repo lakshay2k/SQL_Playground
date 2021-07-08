@@ -9,5 +9,6 @@
 * Big Countries(having large population)
 * Delete Duplicates
 * Nth Highest Salary
+* Not Boring Movies
 
 
