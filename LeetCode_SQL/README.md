@@ -11,5 +11,7 @@
 * Nth Highest Salary
 * Not Boring Movies
 * Swap Salary
+* Reformat Department Table
+
 
 
