@@ -12,6 +12,8 @@
 * Not Boring Movies
 * Swap Salary
 * Reformat Department Table
+* Rank Scores
+
 
 
 
