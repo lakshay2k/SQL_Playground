@@ -2,5 +2,6 @@
 # https://leetcode.com/problems/combine-two-tables/
 
 
+//we have done left join because we needed persons information regardless of their address.
 Select Person.FirstName, Person.LastName,Address.City,Address.State from Person left join Address ON Person.PersonID = Address.PersonID;
 
