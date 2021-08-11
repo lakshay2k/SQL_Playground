@@ -4,3 +4,8 @@
 //Brute Force approach
 Select c1.* from Cinema c1 join Cinema c2 ON c1.id = c2.id Where 
 c1.description != "boring" and (c1.id%2)!=0 Order by c1.rating DESC;
+
+
+//Adding optimal approach and without joins
+
+Select * from Cinema where description != "boring" and (id%2)!=0 Order by rating DESC;
