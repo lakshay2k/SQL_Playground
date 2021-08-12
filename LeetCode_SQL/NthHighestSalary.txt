@@ -8,6 +8,7 @@ BEGIN
       # Write your MySQL query statement below.
       With Result as
       (
+      #we make dense_rank over the the unique salary and assign them a number
       Select Salary, DENSE_RANK() over (Order by Salary DESC) as DENSERANK
           from Employee
       )
