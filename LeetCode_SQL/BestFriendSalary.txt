@@ -1,0 +1,49 @@
+-- create a table
+CREATE TABLE students (
+  id INTEGER PRIMARY KEY,
+  name TEXT NOT NULL
+);
+
+CREATE TABLE Friends (
+  id INTEGER PRIMARY KEY,
+  friends_id INTEGER NOT NULL
+);
+
+CREATE TABLE Packages (
+  id INTEGER PRIMARY KEY,
+  SALARY FLOAT NOT NULL
+);
+
+-- insert some values
+INSERT INTO students VALUES (1, 'Ashley');
+INSERT INTO students VALUES (2, 'Samantha');
+INSERT INTO students VALUES (3, 'Julia');
+INSERT INTO students VALUES (4, 'Scarlet');
+
+
+INSERT INTO Friends VALUES (1,2);
+INSERT INTO Friends VALUES (2,3);
+INSERT INTO Friends VALUES (3,4);
+INSERT INTO Friends VALUES (4,1);
+
+INSERT INTO Packages VALUES (1, 15.20);
+INSERT INTO Packages VALUES (2,10.06);
+INSERT INTO Packages VALUES (3, 11.55);
+INSERT INTO Packages VALUES (4, 12.12);
+
+-- fetch some values
+-- SELECT name FROM students;
+SELECT s.id, s.name, sp.salary, f.friends_id, fp.SALARY from students AS s join Packages AS sp ON s.id = sp.id
+join Friends AS f ON s.id = f.id
+join packages as FP on FP.id = f.friends_id
+where sp.SALARY < fp.SALARY
+order by fp.SALARY;
+
+
+-- SELECT * from friends;
+-- SELECT * FROM Packages;
+
+
+
+
+
