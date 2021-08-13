@@ -50,6 +50,15 @@ order by fp.SALARY;
 -- SELECT * FROM Packages;
 
 
+/*
+OUTPUT comes:
+
+2|Samantha|10.06|3|11.55
+3|Julia|11.55|4|12.12
+4|Scarlet|12.12|1|15.2
+
+*/
+
 
 
 
