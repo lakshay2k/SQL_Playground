@@ -13,6 +13,7 @@
 * Swap Salary
 * Reformat Department Table
 * Rank Scores
+* Best Friend Salary
 
 
 
